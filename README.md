@@ -2,6 +2,8 @@
 
 鸣潮游戏解包UI资源 | Unpacked UI resources of Wuthering Waves. 
 
+国内推荐从 CNB 镜像仓库拉取: [cnb.cool/TomyJan/WutheringWaves-UIResources](https://cnb.cool/TomyJan/WutheringWaves-UIResources)
+
 ## 一些资源 Some Resources
 
 客户端版本历史 Client Version History : [TomyJan/GenshinImpact-Client-Version](https://github.com/TomyJan/GenshinImpact-Client-Version)
